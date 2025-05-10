@@ -1,5 +1,3 @@
-# Web-Designing-Project
-Weather Application
 # Weather App
 
 ## Project Overview
