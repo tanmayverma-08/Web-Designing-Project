@@ -57,9 +57,9 @@ The Weather App is a simple and intuitive web application that allows users to c
 
 ## Screenshots
 
-* ./screenshots/Screenshot%202025-05-10%20192434.png
-* ./screenshots/Screenshot%202025-05-10%20192648.png
-* ./screenshots/Screenshot%202025-05-10%20192856.png
+* ![Screenshot](./screenshots/Screenshot%202025-05-10%20192434.png)
+* ![Screenshot](./screenshots/Screenshot%202025-05-10%20192648.png)
+* ![Screenshot](./screenshots/Screenshot%202025-05-10%20192856.png)
 
 
 
