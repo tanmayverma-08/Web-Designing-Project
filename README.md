@@ -1,5 +1,7 @@
 # Weather App
 
+The app is live at https://tanmayverma-08.github.io/Web-Designing-Project/
+
 ## Project Overview
 
 The Weather App is a simple and intuitive web application that allows users to check the current weather conditions for any city. The application retrieves weather data from the OpenWeatherMap API and dynamically updates the background image based on weather conditions, offering an immersive user experience.
