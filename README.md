@@ -45,7 +45,7 @@ The Weather App is a simple and intuitive web application that allows users to c
 3. View the weather information, including temperature and description.
 4. If the city is not found, an error message will be displayed.
 
-## Screenshots
+## Images
 
 * Sunny Weather
 * Cloudy Weather
@@ -54,4 +54,7 @@ The Weather App is a simple and intuitive web application that allows users to c
 * Misty Weather
 * Thunderstorm Weather
 * Hazy Weather
+
+
+
 
