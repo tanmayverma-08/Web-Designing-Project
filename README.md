@@ -55,6 +55,11 @@ The Weather App is a simple and intuitive web application that allows users to c
 * Thunderstorm Weather
 * Hazy Weather
 
+## Screenshots
+
+* https://github.com/tanmayverma-08/Web-Designing-Project/blob/main/screenshots/Screenshot%202025-05-10%20192434.png
+* 
+
 
 
 
