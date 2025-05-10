@@ -59,7 +59,7 @@ The Weather App is a simple and intuitive web application that allows users to c
 
 * https://github.com/tanmayverma-08/Web-Designing-Project/blob/main/screenshots/Screenshot%202025-05-10%20192434.png
 * https://github.com/tanmayverma-08/Web-Designing-Project/blob/main/screenshots/Screenshot%202025-05-10%20192648.png
-* 
+* https://github.com/tanmayverma-08/Web-Designing-Project/blob/main/screenshots/Screenshot%202025-05-10%20192856.png
 
 
 
